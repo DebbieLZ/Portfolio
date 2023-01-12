@@ -16,5 +16,6 @@ div {
 }
 
 .bold {
-  font-weight: 400;
+  font-weight: bold;
+  color:fuchsia;
 }
