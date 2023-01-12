@@ -6,13 +6,13 @@
 }
 
 div {
-  background-color: rgb(190, 122, 226);
+  background-color: rgb(170, 170, 231);
   border: 10px solid black;
 }
 
 .bold {
   font-weight: bold;
-  color:fuchsia;
+  color:black;
 }
 
 .center {
