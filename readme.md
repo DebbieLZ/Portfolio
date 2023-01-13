@@ -4,7 +4,7 @@
 
 #### _A landing page for future projects_
 
-## Link to page:
+## Link to page: https://debbielz.github.io/Portfolio/
 
 ## Technologies Used
 
